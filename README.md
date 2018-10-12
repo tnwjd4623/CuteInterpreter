@@ -1,3 +1,3 @@
 # CuteInterpreter
 
-CNU Lecture - programming and language
+CNU Lecture - Introduction to programming language
